@@ -165,7 +165,7 @@ Bu proje açık kaynaklıdır ve MIT lisansı altında lisanslanmıştır.
 
 ## 👤 Yazar
 
-Proje sahibi: [Adınız]
+Proje sahibi: Çetin Karasar
 
 ## 📞 İletişim
 
